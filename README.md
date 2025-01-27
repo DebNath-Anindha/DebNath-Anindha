@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebNath-Anindha
+- 👋 Hi, I’m @ChandraNath-Anindha
 - 👀 I’m interested in programming , travaling .
 - 🌱 I’m currently learning C sharp.
 - 💞️ I’m looking to collaborate on ...
